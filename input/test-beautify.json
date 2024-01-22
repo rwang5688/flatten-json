@@ -1,0 +1,21 @@
+{
+  "data": {
+    "plays": {
+      "items": [
+        {
+          "user": {
+            "Rachel": {
+              "UserID": 1717171717,
+              "Email": "rachel1999@gmail.com",
+              "friends": [
+                "John",
+                "Jeremy",
+                "Emily"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
